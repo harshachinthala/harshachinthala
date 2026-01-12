@@ -47,33 +47,7 @@
 
 </div>
 
----
 
-## 💻 Featured Projects
-
-| **Project** | **Description** | **Tech** |
-| :--- | :--- | :--- |
-| **PriceFinder AI** | An intelligent e-commerce assistant that helps users find the best deals using web scrapping and AI agents. | `Python` `Agents` `Web Scrubbing` |
-| **Excel RAG Assistant** | Interactive chat interface for querying Excel datasets using RAG methodology. | `RAG` `LLMs` `Gradio` |
-| **Face Mask Detection** | Real-time computer vision system to detect face masks in video streams. | `OpenCV` `Deep Learning` |
-| **DataCrux** | Automated data analysis and insight generation platform. | `Pandas` `AI` `Visualization` |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshachinthala&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Harsha's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshachinthala&layout=compact&theme=radical&langs_count=6" alt="Top Languages" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshachinthala&theme=radical&hide_border=true" alt="Harsha's Streak" />
-</div>
-
----
 
 <div align="center">
   <i>"I'll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard." - Ken Thompson</i>
