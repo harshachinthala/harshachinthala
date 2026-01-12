@@ -24,10 +24,10 @@
 📫 **Let's Connect:** I'm always open to interesting collaborations in AI/ML!
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
+  <a href="https://www.linkedin.com/in/harshachinthala/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:sriharshanadhchinthala@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
    <a href="https://harshachinthala.github.io" target="_blank">
