@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm Harsha Chinthala! 👋</h1>
+  <h1 align="center">Hello, I'm Harsha Chinthala! 👋</h1>
   <h3 align="center">Data Science & AI Engineer | Generative AI Enthusiast | Developer</h3>
 </div>
 
@@ -15,11 +15,12 @@
 
 ## 🚀 About Me
 
-👨‍💻 I'm a passionate **Data & AI Engineer** with **2+ years of experience** in building scalable AI solutions. My journey involves diving deep into **Machine Learning**, **Generative AI**, and **Full-Stack Development** to solve real-world problems.
+As a Data Scientist and Gen AI Developer with over 2 years of experience, I specialize in building high-impact, AI-driven solutions and solving real world problems for all the enterprises that I have worked with. My expertise spans the full data science lifecycle, from developing Advanced Machine Learning and Generative AI applications to deploying scalable, containerized workflows in cloud environments.
 
-🤖 I specialize in developing **RAG (Retrieval-Augmented Generation)** systems, **Computer Vision** models, and interactive **AI-powered applications**.
+Ever since I was young, I’ve been fascinated by two things how machines work and how information moves through them. This curiosity took me from developing my first intelligent system (**Face mask Detection using ML🤖**) to building advanced RAG intelligent systems (**Datacrux📊**) that something clicked and helped to turn data into real decisions. Over time, this passion grew into leadership guiding student teams and collaborating closely with AI researching faculty at **The University of Texas at Dallas**. Today, as an **AI Researcher and Graduate Teaching Assistant**, I’ve had the privilege of working with **Prof. Antonio Paes** and **Prof. Prakash Shrivastava**, playing a crucial role in developing AI assistants that support instruction, enhance student engagement, and scale personalized learning. 
+                         
 
-🌱 I’m currently exploring advanced **LLM orchestration**, **Agentic AI workflows**, and optimizing **MLOps** pipelines.
+Before coming to the U.S., I spent 2 years in India's tech industry. At **Solar Secure Solutions**., I worked closely with the operations and analytics teams as a Data Science Intern. There, I honed my data science skills, developing enterprise applications and algorithms, and spearheading containerization efforts that dramatically improved deployment efficiency. Later, at **Salesable**, I worked as an Associate Data Analyst notably for Tata Insurance, spending much of my time listening to stakeholders, understanding how they worked, and translate business questions into clean datasets, analytical models., and dashboards📈 that genuinely helped them make better decisions.
 
 📫 **Let's Connect:** I'm always open to interesting collaborations in AI/ML!
 
