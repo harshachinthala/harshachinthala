@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-As a Data Scientist and Gen AI Developer with over 2 years of experience, I specialize in building high-impact, AI-driven solutions and solving real world problems for all the enterprises that I have worked with. My expertise spans the full data science lifecycle, from developing Advanced Machine Learning and Generative AI applications to deploying scalable, containerized workflows in cloud environments.
+As a Data Scientist and Gen AI Developer with 2+ years of experience, I specialize in building high-impact, AI-driven solutions and solving real world problems for all the enterprises that I have worked with. My expertise spans the full data science lifecycle, from developing Advanced Machine Learning and Generative AI applications to deploying scalable, containerized workflows in cloud environments.
 
 Ever since I was young, I’ve been fascinated by two things how machines work and how information moves through them. This curiosity took me from developing my first intelligent system (**Face mask Detection using ML🤖**) to building advanced RAG intelligent systems (**Datacrux📊**) that something clicked and helped to turn data into real decisions. Over time, this passion grew into leadership guiding student teams and collaborating closely with AI researching faculty at **The University of Texas at Dallas**. Today, as an **AI Researcher and Graduate Teaching Assistant**, I’ve had the privilege of working with **Prof. Antonio Paes** and **Prof. Prakash Shrivastava**, playing a crucial role in developing AI assistants that support instruction, enhance student engagement, and scale personalized learning. 
                          
