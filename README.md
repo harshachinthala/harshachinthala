@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hello, I'm Harsha Chinthala! 👋</h1>
-  <h3 align="center">Data Science & AI Engineer | Generative AI Enthusiast | Developer</h3>
+  <h3 align="center">Data Scientist | Generative AI Enthusiast | AI Engineer</h3>
 </div>
 
 <p align="center">
