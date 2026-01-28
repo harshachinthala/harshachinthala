@@ -107,8 +107,16 @@ Before coming to the U.S., I spent 2 years in India's tech industry. At **Solar 
   <img src="https://count.getloli.com/get/@harshachinthala?theme=rule34" alt="Moe Counter" />
 </div>
 
-<br>
 
 <div align="center">
-  <i>"I'll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard." - Ken Thompson</i>
+  <table>
+    <tr>
+      <td align="center">
+        <i>"Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it."</i>
+        <br>
+        <br>
+        — <b>Anders Hejlsberg</b>
+      </td>
+    </tr>
+  </table>
 </div>
