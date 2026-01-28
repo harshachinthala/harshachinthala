@@ -99,13 +99,14 @@ Before coming to the U.S., I spent 2 years in India's tech industry. At **Solar 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harshachinthala&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=harshachinthala&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshachinthala&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <div align="center">
   <img src="https://count.getloli.com/get/@harshachinthala?theme=rule34" alt="Moe Counter" />
 </div>
+
 
 <br>
 
