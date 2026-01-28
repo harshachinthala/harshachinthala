@@ -96,11 +96,24 @@ Before coming to the U.S., I spent 2 years in India's tech industry. At **Solar 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=harshachinthala&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshachinthala&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://count.getloli.com/get/@harshachinthala?theme=rule34" alt="Moe Counter" />
+</div>
+
+<div align="center">
+<h3>Top Contributed Repo</h3>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshachinthala&repo=CreditIQ&theme=radical" alt="CreditIQ" />
+</div>
+
+<br>
 
 <div align="center">
   <i>"I'll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard." - Ken Thompson</i>
 </div>
-
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=harshachinthala&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
