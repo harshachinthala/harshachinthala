@@ -106,7 +106,7 @@ Before coming to the U.S., I spent 2 years in India's tech industry. At **Solar 
 <div align="center">
   <img src="https://count.getloli.com/get/@harshachinthala?theme=rule34" alt="Moe Counter" />
 </div>
-
+<br>
 
 <br>
 
