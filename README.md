@@ -107,10 +107,6 @@ Before coming to the U.S., I spent 2 years in India's tech industry. At **Solar 
   <img src="https://count.getloli.com/get/@harshachinthala?theme=rule34" alt="Moe Counter" />
 </div>
 
-<div align="center">
-<h3>Top Contributed Repo</h3>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshachinthala&repo=CreditIQ&theme=radical" alt="CreditIQ" />
-</div>
 
 <br>
 
