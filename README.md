@@ -31,7 +31,7 @@ Before coming to the U.S., I spent 2 years in India's tech industry. At **Solar 
   <a href="mailto:sriharshanadhchinthala@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-   <a href="https://harshachinthala.com/" target="_blank">
+   <a href="http://www.harshachinthala.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" />
   </a>
 </div>
