@@ -99,7 +99,7 @@ Before coming to the U.S., I spent 2 years in India's tech industry. At **Solar 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshachinthala&theme=radical" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=harshachinthala&theme=radical" alt="GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshachinthala&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
