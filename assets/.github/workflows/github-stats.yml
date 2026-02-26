@@ -1,0 +1,22 @@
+name: Generate GitHub Language Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"   # runs weekly
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate top languages SVG
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: harshachinthala
+          svg_path: assets/top-langs.svg
+          theme: radical
+          layout: compact
+          langs_count: 8
+          hide: html,css,scss
