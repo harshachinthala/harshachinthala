@@ -98,10 +98,12 @@ Deployment & MLOps:
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=harshachinthala&theme=radical" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshachinthala&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=harshachinthala&theme=radical&v=1" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshachinthala&layout=compact&theme=radical&langs_count=10&hide=html,css,scss" alt="Top Languages" />
 </div>
+
 
 <div align="center">
   <img src="https://count.getloli.com/get/@harshachinthala?theme=rule34" alt="Moe Counter" />
