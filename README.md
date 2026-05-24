@@ -13,7 +13,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=&fontSize=90" />
 </p>
 
-## 🚀 About Me
+##  About Me
 
 As a Data Scientist and Gen AI Developer with 2+ years of experience, I specialize in building high-impact, AI-driven solutions and solving real world problems for all the enterprises that I have worked with. My expertise spans the full data science lifecycle, from developing Advanced Machine Learning and Generative AI applications to deploying scalable, containerized workflows in cloud environments.
 
