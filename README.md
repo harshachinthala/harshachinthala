@@ -38,7 +38,7 @@ Before coming to the U.S., I spent 2 years in India's tech industry. At **Solar 
 
 ---
 
-## 🧠 Skills & Technologies
+## Skills & Technologies
 
 Languages:
 <div align="left">
@@ -96,7 +96,7 @@ Deployment & MLOps:
 </div>
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 
 <div align="center">
