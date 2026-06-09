@@ -15,12 +15,17 @@
 
 ##  About Me
 
-As a Data Scientist and Gen AI Developer with 2+ years of experience, I specialize in building high-impact, AI-driven solutions and solving real world problems for all the enterprises that I have worked with. My expertise spans the full data science lifecycle, from developing Advanced Machine Learning and Generative AI applications to deploying scalable, containerized workflows in cloud environments.
+I’m an AI professional who enjoys turning complex problems into smart solutions that help teams make better decisions. 
 
-Ever since I was young, I’ve been fascinated by two things how machines work and how information moves through them. This curiosity took me from developing my first intelligent system (**Face mask Detection using ML**) to building advanced RAG intelligent systems (**Datacrux**) that something clicked and helped to turn data into real decisions. Over time, this passion grew into leadership guiding student teams and collaborating closely with AI researching faculty at **The University of Texas at Dallas**. Today, as an **AI Researcher and Graduate Teaching Assistant**, I’ve had the privilege of working with **Prof. Antonio Paes** and **Prof. Prakash Shrivastava**, playing a crucial role in developing AI assistants that support instruction, enhance student engagement, and scale personalized learning. 
-                         
+I recently graduated with a Master’s in Business Analytics & Artificial Intelligence from The University of Texas at Dallas, where I was recognized as a Scholar with High Distinction and Nash leader for my leadership in building and mentoring student teams. During my program, I completed an AI Engineer Internship at Office of Information Technology UT Dallas, where I worked on building CometAI, a secure enterprise AI platform integrating multiple large language models and RAG Pipelines , supporting AI adoption across the university's faculty and staff.
 
-Before coming to the U.S., I spent 2 years in India's tech industry. At **Solar Secure Solutions**., I worked closely with the operations and analytics teams as a Data Science Intern. There, I honed my data science skills, developing enterprise applications and algorithms, and spearheading containerization efforts that dramatically improved deployment efficiency. Later, at **Salesable**, I worked as an Associate Data Analyst notably for Tata Insurance, spending much of my time listening to stakeholders, understanding how they worked, and translate business questions into clean datasets, analytical models., and dashboards that genuinely helped them make better decisions.
+ Before that, I worked at Salesable.io as Business Research executive- AI /ML, where I helped build and improve AI voice agents and NLP pipelines for B2B sales development clients. My work focused on making lead generation more accurate, easier to scale, and more useful for business stakeholders.
+
+I'm comfortable working with Python, SQL, and modern AI/ML frameworks, along with cloud platforms like GCP and AWS. I enjoy collaborating across teams, understanding real business problems, and building solutions that actually create impact.
+
+I’m always looking for opportunities where I can simplify complex problems and contribute through thoughtful, business-driven decision-making using AI.
+
+
 
 📫 **Let's Connect:** I'm always open to interesting collaborations in AI/ML!
 
