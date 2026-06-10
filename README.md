@@ -1,11 +1,11 @@
 <div align="center">
   <h1 align="center">Hello, I'm Harsha Chinthala! </h1>
-  <h3 align="center">Data Scientist | Generative AI Enthusiast | AI Engineer</h3>
+  <h3 align="center"> AI Engineer | Generative AI Enthusiast | Data Scientist </h3>
 </div>
 
 <p align="center">
   <a href="https://github.com/harshachinthala">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+Intelligent+AI+Agents;Crafting+RAG+Applications;Exploring+Computer+Vision;Automating+Data+Pipelines;Always+Learning+%26+Innovating" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+Intelligent+AI+Agents;Crafting+RAG+Applications;Automating+Data+Pipelines;Always+Learning+%26+Innovating" alt="Typing SVG" />
   </a>
 </p>
 
