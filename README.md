@@ -19,7 +19,7 @@ I’m an AI professional who enjoys turning complex problems into smart solution
 
 I recently graduated with a Master’s in Business Analytics & Artificial Intelligence from The University of Texas at Dallas, where I was recognized as a Scholar with High Distinction and Nash leader for my leadership in building and mentoring student teams. During my program, I completed an AI Engineer Internship at Office of Information Technology UT Dallas, where I worked on building CometAI, a secure enterprise AI platform integrating multiple large language models and RAG Pipelines , supporting AI adoption across the university's faculty and staff.
 
- Before that, I worked at Salesable.io as Business Research executive- AI /ML, where I helped build and improve AI voice agents and NLP pipelines for B2B sales development clients. My work focused on making lead generation more accurate, easier to scale, and more useful for business stakeholders.
+Before that, I worked at Salesable.io as a Business Research AI/ML Engineer, where I helped build and improve AI voice agents and NLP pipelines for B2B clients' sales-development needs. My work focused on automating lead generation accurately, scaling the process, and making it more useful for business stakeholders.
 
 I'm comfortable working with Python, SQL, and modern AI/ML frameworks, along with cloud platforms like GCP and AWS. I enjoy collaborating across teams, understanding real business problems, and building solutions that actually create impact.
 
